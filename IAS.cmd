@@ -8,7 +8,7 @@
 ::
 ::   IDM Activation Script
 ::
-::   Homepages: https://github.com/mdabirmia70-rgb/-IDM-Activation-Script
+::   Homepages: https://github.com/mdabirmia70-rgb/IDM-Activation-Script
 ::
 ::============================================================================
 
