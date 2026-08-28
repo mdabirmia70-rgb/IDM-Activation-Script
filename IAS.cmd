@@ -367,10 +367,10 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Create By Astro-Saurav"
+call :_color2 %_White% "             " %_Green% "Create By SOUROV-HASAN"
 echo:            ___________________________________________________ 
 echo:
-echo:               Github: https://github.com/Astro-Saurav
+echo:               Github: https://github.com/mdabirmia70-rgb
 echo:            ___________________________________________________ 
 echo:                                                               
 echo:               [1] Activate
